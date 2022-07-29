@@ -1,0 +1,1 @@
+This project utilize DNN to build up model to estimate the survival rate on the titanic.
